@@ -19,3 +19,6 @@ example we have a few files of interest
  - vsphere\minimal\main.tf - minimal data declarations to declare an existing virtual machine with data object
  - vsphere\minimal\variables.tf - generated variables file from config.ps1
  - vsphere\minimal\test.xx - scratch copy of our variables.tf file to show generation of output
+ 
+ A more detailed explanation can be found at <a href="http://www.patshuff.com/blog/wp-admin/post.php?post=921&action=edit">Terraform vSphere vm</a>
+ 
