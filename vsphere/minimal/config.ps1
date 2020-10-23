@@ -1,7 +1,7 @@
 
 $file_name = "test.xx"
 if (Test-Path $file_name) {
-  $q1 = 'overwrite ' + $file_name + '?(type yes to confirm)'
+  $q1 = 'overwrite ' + $file_name + '? (type yes to confirm)'
   $resp = Read-Host -Prompt $q1
   if ($resp -ne "yes") {
     Write-Host "please delete $file_name before executing this script"
