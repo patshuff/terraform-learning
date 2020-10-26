@@ -16,6 +16,7 @@ in all four environments.
 For the first part of this exploration we will look at auto-generating code for vSphere. In this 
 example we have a few files of interest
  - vsphere\minimal\config.ps1 - PowerShell script to generate variables.tf
+ - vsphere\minimal\connect.ps1 - PowerShell script to connect to vSphere server and populate variables.tf
  - vsphere\minimal\main.tf - minimal data declarations to declare an existing virtual machine with data object
  - vsphere\minimal\variables.tf - generated variables file from config.ps1
  - vsphere\minimal\test.xx - scratch copy of our variables.tf file to show generation of output
