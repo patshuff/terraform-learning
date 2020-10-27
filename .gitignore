@@ -1,0 +1,10 @@
+
+vsphere/minimal/.terraform.tfstate.lock.info
+vsphere/minimal/.terraform/plugins/registry.terraform.io/hashicorp/vsphere/1.24.2/windows_amd64/terraform-provider-vsphere_v1.24.2_x4.exe
+vsphere/minimal/.terraform/plugins/selections.json
+vsphere/minimal/terraform.tfstate
+vsphere/minimal/terraform.tfstate.backup
+vsphere/minimal/test.tfvars
+vsphere/minimal/variables.tf.orig
+vsphere/minimal/test.xx
+vsphere/minimal/test.xx
