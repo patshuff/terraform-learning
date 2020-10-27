@@ -8,3 +8,4 @@ vsphere/minimal/test.tfvars
 vsphere/minimal/variables.tf.orig
 vsphere/minimal/test.xx
 vsphere/minimal/test.xx
+vsphere/minimal/test.xx
