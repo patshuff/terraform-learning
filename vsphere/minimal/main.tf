@@ -14,7 +14,7 @@ resource "vsphere_virtual_machine" "vm" {
    }
    disk {
      label = "Disk0"
-	 size = 40
+	 size = data.vsphere_virtual_machine.win_10_template.disks.0.size
    }
    clone {
      template_uuid = data.vsphere_virtual_machine.win_10_template.id
