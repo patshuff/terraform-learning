@@ -17,5 +17,5 @@ variable "environment" {
 
 variable "key_name" {
   type = string
-  default = "BBC_Key2"
+  default = "cmvlt2019"
 }
