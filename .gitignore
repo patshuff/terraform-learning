@@ -10,3 +10,10 @@ vsphere/minimal/test.xx
 vsphere/minimal/test.xx
 vsphere/minimal/test.xx
 vsphere/minimal/test.xx
+aws/first_ec2_tier/.terraform/environment
+*.exe
+*.json
+*.tfstate
+*.tfstate
+*.backup
+aws/minimal/terraform.tfstate
